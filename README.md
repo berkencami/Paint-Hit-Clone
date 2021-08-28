@@ -1,6 +1,5 @@
 # Paint-Hit-Clone
-Paint Hit clone game with Unity
-
+Paint Hit clone game 
 
 
 # ScreenShots
