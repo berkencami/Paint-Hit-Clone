@@ -1,5 +1,5 @@
-# Paint-Hit-Clone
-Paint Hit clone game 
+# Paint-Hit
+Paint Hit https://berkencami.itch.io/paint-hit
 
 
 # ScreenShots
